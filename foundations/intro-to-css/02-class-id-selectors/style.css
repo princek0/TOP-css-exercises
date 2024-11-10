@@ -1,0 +1,15 @@
+/* styles.css */
+
+.first-class {
+    background-color: rgb(255, 167, 167);
+    font-family: 'Verdana', 'DejaVu Sans', 'sans-serif' ;
+}
+
+#first-id {
+    color: blue;
+    font-size:36px;
+}
+
+#cool {
+    font-size: 24px;
+}
